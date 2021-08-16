@@ -64,6 +64,9 @@
     --deprecated-text-input-border-disabled: #202225;
     --deprecated-text-input-prefix: #dcddde;
 }
+.theme-dark .autocomplete-1vrmpx {
+    background-color: #282C34;
+}
 .theme-light {
     --header-primary: #060607;
     --header-secondary: #4f5660;
