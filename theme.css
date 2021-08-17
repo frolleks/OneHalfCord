@@ -255,6 +255,6 @@ html {
     color: hsl(355,calc(var(--saturation-factor, 1)*65%),65%);
 }
 .colorDanger-2qLCe1 .focused-3afm-j {
-    color: #fff;
     background-color: hsl(355,calc(var(--saturation-factor, 1)*65%),65%);
+    color: #fff;
 }
