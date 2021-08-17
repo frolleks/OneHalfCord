@@ -168,5 +168,5 @@
 }
 .theme-dark .circleIconButton-1QV--U.circleButtonBase-2DCxIZ .selected-1JjBPm {
     color: #fff;
-    background-color: #98C379;
+    background-color: hsl(95,calc(var(--saturation-factor, 1)*38%),62%);;
 }
