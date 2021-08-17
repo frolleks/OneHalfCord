@@ -166,3 +166,7 @@
 .theme-dark .circleIconButton-1QV--U.circleButtonBase-2DCxIZ {
     color: #98C379;
 }
+.theme-dark .circleIconButton-1QV--U.circleButtonBase-2DCxIZ .selected-1JjBPm {
+    background-color: #98C379;
+    color: #fff;
+}
