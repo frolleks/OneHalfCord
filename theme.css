@@ -258,3 +258,9 @@ html {
     color: #fff;
     background-color: #E06C75;
 }
+.theme-dark .container-3ayLPN {
+    background-color: var(--background-primary);
+}
+.theme-dark .option-96V44q::after {
+    background: none;
+}
