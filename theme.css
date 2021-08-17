@@ -228,3 +228,29 @@ html {
 .theme-dark .modal-yWgWj- {
     background-color: var(--background-primary);
 }
+.guildSection-1EoFKd > .flex-1xMQg5 > svg {
+    flex-shrink: 0;
+}
+.role-2irmRk{
+    background: transparent;
+    border: 1px solid;
+    border-radius: 11px;
+  }
+  .roleCircle-3xAZ1j {
+    margin-left: 0;
+  }
+  .addButton-pcyyf6.role-2irmRk {
+      border-color: #4f545c;
+  }
+  .addButtonIcon-1NMJ8u {
+      width: 10px;
+      height: 10px;
+  }
+:root {
+    --font-primary: Whitney,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    --font-display: Whitney,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    --font-code: Consolas,"Andale Mono WT","Andale Mono","Lucida Console","Lucida Sans Typewriter","DejaVu Sans Mono","Bitstream Vera Sans Mono","Liberation Mono","Nimbus Mono L",Monaco,"Courier New",Courier,monospace;
+}
+.colorDanger-2qLCe1, .colorDanger-2qLCe1 .checkbox-3s5GYZ, .colorDanger-2qLCe1 .radioSelection-1HmrQS {
+    color: hsl(355,calc(var(--saturation-factor, 1)*65%),65%);
+}
