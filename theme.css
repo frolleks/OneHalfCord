@@ -254,3 +254,7 @@ html {
 .colorDanger-2qLCe1, .colorDanger-2qLCe1 .checkbox-3s5GYZ, .colorDanger-2qLCe1 .radioSelection-1HmrQS {
     color: hsl(355,calc(var(--saturation-factor, 1)*65%),65%);
 }
+.colorDanger-2qLCe1 .focused-3afm-j {
+    color: #fff;
+    background-color: hsl(355,calc(var(--saturation-factor, 1)*65%),65%);
+}
