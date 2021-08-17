@@ -167,7 +167,7 @@
     color: #98C379;
     background-color: var(--background-secondary);
 }
-.theme-dark .circleIconButton-1QV--U.circleButtonBase-2DCxIZ .selected-1JjBPm {
+.circleIconButton-1QV--U.circleButtonBase-2DCxIZ.selected-1JjBPm {
     color: #fff;
     background-color: hsl(95,calc(var(--saturation-factor, 1)*38%),62%);;
 }
