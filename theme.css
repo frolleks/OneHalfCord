@@ -218,3 +218,7 @@ html {
     color: #fff;
     background-color: hsl(95,calc(var(--saturation-factor, 1)*38%),62%);;
 }
+.theme-dark .pageWrapper-1PgVDX {
+    background-color: var(--background-primary);
+    color: #fff;
+}
