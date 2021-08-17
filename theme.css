@@ -159,3 +159,7 @@
   .profileBadges-ohc0Vu{
     display: none;
   }
+  .theme-dark .lookFilled-1Gx00P.colorGrey-2DXtkV {
+    color: #fff;
+    background-color: var(--background-secondary);
+}
