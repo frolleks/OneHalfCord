@@ -2,7 +2,7 @@
     --header-primary: #fff;
     --header-secondary: #b9bbbe;
     --text-normal: #DCDFE4;
-    --text-muted: #424344;
+    --text-muted: #58595b;
     --text-link: hsl(197,calc(var(--saturation-factor, 1)*100%),47.8%);
     --text-link-low-saturation: hsl(197,calc(var(--saturation-factor, 1)*100%),52.9%);
     --text-positive: hsl(139,calc(var(--saturation-factor, 1)*66.8%),58.6%);
