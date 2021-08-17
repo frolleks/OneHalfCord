@@ -147,3 +147,15 @@
 .theme-dark .perksModal-fSYqOq {
     background-color: var(--background-primary);
 }
+.headerTop-3vNv-a, .customStatus-oN4ZZY{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  }
+  .avatarWrapperNormal-26WQIb{
+    position: absolute;
+    left: 35%;
+  }
+  .profileBadges-ohc0Vu{
+    display: none;
+  }
