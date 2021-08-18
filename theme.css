@@ -372,16 +372,9 @@ div[href="/channels/@me"]:not(:hover) > div {
   .wordmarkWindows-1v0lYD svg{
     width:0;
   }
+
   .wordmarkWindows-1v0lYD::after{
-    content:'one';
-    position:absolute;
-    width:max-content;
-    font-weight:500;
-    font-size:14px;
-    color:white;
-  }
-  .wordmarkWindows-1v0lYD::after{
-    content:'   half';
+    content:'onehalf';
     position:absolute;
     width:max-content;
     font-weight:750;
