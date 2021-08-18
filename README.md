@@ -11,5 +11,7 @@ Hey, reader. Can you ask for this theme to be ported to GooseMod in the GooseMod
 - Supports both light theme and dark theme
 - Resizable threads tab
 ## Screenshots
+## Contributing
+Read the [CONTRIBUTING.md](https://github.com/rolledev/onehalfcord/blob/master/CONTRIBUTING.md).
 # License
 This repository is licensed under the MIT license. Read the [LICENSE](https://github.com/rolledev/onehalfcord/blob/master/LICENSE) file for more information.
