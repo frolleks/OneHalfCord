@@ -1,5 +1,6 @@
 # OneHalfCord
  A Discord theme based on the Vim theme, One Half.
+ ![](https://i.imgur.com/DYSMUlD.png)
 ## Installation
 ### BetterDiscord
 Right click on this [link](https://raw.githubusercontent.com/rolledev/onehalfcord/master/OneHalfCord.theme.css) and click "Save link as" and drag and drop the file to your themes folder.
@@ -11,7 +12,6 @@ Hey, reader. Can you ask for this theme to be ported to GooseMod in the GooseMod
 - Supports both light theme and dark theme
 - Resizable threads tab
 ## Screenshots
-![](https://i.imgur.com/DYSMUlD.png)
 ## Contributing
 Read the [CONTRIBUTING.md](https://github.com/rolledev/onehalfcord/blob/master/CONTRIBUTING.md) file.
 # License
