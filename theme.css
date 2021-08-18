@@ -373,10 +373,18 @@ div[href="/channels/@me"]:not(:hover) > div {
     width:0;
   }
   .wordmarkWindows-1v0lYD::after{
-    content:'One Half';
+    content:'one';
     position:absolute;
     width:max-content;
     font-weight:500;
+    font-size:14px;
+    color:white;
+  }
+  .wordmarkWindows-1v0lYD::after{
+    content:'   half';
+    position:absolute;
+    width:max-content;
+    font-weight:750;
     font-size:14px;
     color:white;
   }
