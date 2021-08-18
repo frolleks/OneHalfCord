@@ -392,6 +392,3 @@ div[href="/channels/@me"]:not(:hover) > div {
     background-color: #00000000;
 }
 
-.side-8zPYf6 .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ, .topPill-30KHOu .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ::after {
-    content: "Quick CSS";
-}
