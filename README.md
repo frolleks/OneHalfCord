@@ -1,6 +1,8 @@
-# OneHalfCord
- A Discord theme based on the Vim theme, One Half.
- ![](https://i.imgur.com/DYSMUlD.png)
+<h1 align="center">OneHalfCord</h1>
+<p align="center">A Discord theme based on the Vim theme, One Half</p>
+
+![](https://i.imgur.com/DYSMUlD.png)
+
 ## Installation
 ### BetterDiscord
 Right click on this [link](https://raw.githubusercontent.com/rolledev/onehalfcord/master/OneHalfCord.theme.css) and click "Save link as" and drag and drop the file to your themes folder.
