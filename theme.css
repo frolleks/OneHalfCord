@@ -187,9 +187,15 @@ html {
     display: none;
 }
 .container-3baos1 {
-     padding-left: 48px;
-     padding-right: 48px;
+     padding-left: 56px;
+     padding-right: 56px;
 }
+
+.gameActivityToggleAdded-Yd-YxC{
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
 .peopleColumn-29fq28 {
     background-color: var(--background-primary);
 }
