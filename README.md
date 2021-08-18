@@ -1,5 +1,5 @@
 <h1 align="center">OneHalfCord</h1>
-<p align="center">A Discord theme based on the Vim theme, One Half</p>
+<p align="center">A Discord theme based on the Vim theme, One Half.</p>
 
 ![](https://i.imgur.com/DYSMUlD.png)
 
