@@ -408,7 +408,7 @@ div[href="/channels/@me"]:not(:hover) > div {
   .item-PXvHYJ[data-item-id="theme-toggler"]:selected:after {
     color: var(--interactive-active) !important;
   }
-  .uploadModal-2ifh8j .inner-3nWsbo {
+  .theme-dark .uploadModal-2ifh8j {
     background-color: var(--background-primary);
 }
 .theme-dark .footer-3mqk7D {
