@@ -17,6 +17,10 @@ Hey, reader. Can you ask for this theme to be ported to GooseMod in the GooseMod
 | Guild | Friends List |
 | --- | ----------- |
 | ![](https://i.imgur.com/oh2mblv.png) | ![](https://i.imgur.com/pC6RTvA.png) |
+
+| Server Discovery | Direct Messages |
+| --- | ----------- |
+| ![](https://i.imgur.com/ZDuhflB.png) | ![](https://i.imgur.com/8ZF41Fl.png) |
 ## Contributing
 Read the [CONTRIBUTING.md](https://github.com/rolledev/onehalfcord/blob/master/CONTRIBUTING.md) file.
 # License
