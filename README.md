@@ -14,6 +14,9 @@ Hey, reader. Can you ask for this theme to be ported to GooseMod in the GooseMod
 - Supports both light theme and dark theme
 - Resizable threads tab
 ## Screenshots
+| Guild | Friends List |
+| --- | ----------- |
+| ![](https://i.imgur.com/oh2mblv.png) | ![](https://i.imgur.com/pC6RTvA.png) |
 ## Contributing
 Read the [CONTRIBUTING.md](https://github.com/rolledev/onehalfcord/blob/master/CONTRIBUTING.md) file.
 # License
