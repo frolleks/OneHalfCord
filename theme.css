@@ -386,3 +386,25 @@ div[href="/channels/@me"]:not(:hover) > div {
     background-color: #00000000;
 }
 
+.item-PXvHYJ[data-item-id="theme-toggler"] {
+    font-size: 0px;
+      visibility: none !important;
+      padding-top: 6px;
+    padding-bottom: 1px;
+    margin-bottom: 2px;
+  }
+  .item-PXvHYJ[data-item-id="theme-toggler"]:after {
+    font-size: 16px;
+      visibility: visible !important;
+  
+    content: "Themes";
+  }
+  .item-PXvHYJ[data-item-id="theme-toggler"]:not(:selected):hover:after {
+    color: var(--interactive-hover) !important;
+  }
+  .item-PXvHYJ[data-item-id="theme-toggler"]:active:after {
+    color: var(--interactive-active) !important;
+  }
+  .item-PXvHYJ[data-item-id="theme-toggler"]:selected:after {
+    color: var(--interactive-active) !important;
+  }
