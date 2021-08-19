@@ -409,7 +409,7 @@ div[href="/channels/@me"]:not(:hover) > div {
     color: var(--interactive-active) !important;
   }
   .uploadModal-2ifh8j .inner-3nWsbo {
-    color: var(--background-primary);
+    background-color: var(--background-primary);
 }
 .theme-dark .footer-3mqk7D {
     background-color: var(--background-secondary);
