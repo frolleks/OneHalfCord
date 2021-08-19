@@ -292,7 +292,7 @@ html {
 .tipTitle-GL9qAt{content:"";font-size: 0px;}
 .tipTitle-GL9qAt::before{content:"Did you know?";font-size: 12px;}
 .tip-2cgoli{content:"";font-size: 0px;}
-.tip-2cgoli::before{content: "Message Loggers are prohibited. If you have the Message Logger plugin installed, please uninstall it.";font-size: 16px;}
+.tip-2cgoli::before{content: "Message logger plugins are prohibited. If you have some type of message logger plugin installed, please uninstall it, since it significantly increases the chance of getting termed on Discord.";font-size: 16px;}
 .problems-3mgf6w.slideIn-sCvzGz{display:none;}
 .container-16j22k.fixClipping-3qAKRb{background: var(--background-tertiary);}
 ul[data-list-id="guildsnav"] > div[class^="scroller"] {
