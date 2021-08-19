@@ -1,0 +1,10 @@
+/**
+* @name OneHalfCord
+* @author rolledev
+* @version 1.0
+* @description A Discord theme based on the Vim theme, One Half.
+* @source https://github.com/rolledev/onehalfcord
+* @updateUrl https://raw.githubusercontent.com/rolledev/onehalfcord/master/OneHalfCord.theme.css
+*/
+
+@import url("https://rolledev.github.io/onehalfcord/theme.css");
