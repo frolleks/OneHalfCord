@@ -8,3 +8,17 @@
 */
 
 @import url("https://rolledev.github.io/onehalfcord/theme.css");
+
+/* DO NOT TOUCH */
+
+.userPopout-xaxa6l[style*="--user-background"] .banner-2QYc2d,
+.root-3QyAh1[style*="--user-background"] .banner-2QYc2d {
+    height: 120px;
+    background: var(--background-floating) var(--user-background) var(--user-popout-position, center) center / cover !important;
+}
+.userPopout-xaxa6l[style*="--user-background"] .avatarPositionNormal-aZjAsn {
+    top: 76px;
+}
+.root-3QyAh1[style*="--user-background"] .banner-2QYc2d {
+    height: 240px;
+}

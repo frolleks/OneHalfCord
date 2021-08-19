@@ -13,6 +13,7 @@ Hey, reader. Can you ask for this theme to be ported to GooseMod in the GooseMod
 ## Features
 - Supports both light theme and dark theme
 - Resizable threads tab
+- USRBG Support (BetterDiscord **ONLY**)
 ## Screenshots
 | Guild | Friends List |
 | --- | ----------- |
