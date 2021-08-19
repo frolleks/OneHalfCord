@@ -414,5 +414,28 @@ div[href="/channels/@me"]:not(:hover) > div {
 .theme-dark .footer-3mqk7D {
     background-color: var(--background-secondary);
 }
+.item-PXvHYJ[data-item-id="pc-moduleManager-themes"] {
+    font-size: 0px;
+    visibility: none !important;
+    padding-top: 6px;
+    padding-bottom: 2px;
+    margin-bottom: 2px;
+  }
+  .item-PXvHYJ[data-item-id="pc-moduleManager-themes"]:after {
+    font-size: 16px;
+    padding-bottom: 0px;
+    visibility: visible !important;
+    content: "Quick CSS";
+  }
+  .item-PXvHYJ[data-item-id="pc-moduleManager-themes"]:not(:selected):hover:after {
+    color: var(--interactive-hover) !important;
+  }
+  .item-PXvHYJ[data-item-id="pc-moduleManager-themes"]:active:after {
+    color: var(--interactive-active) !important;
+  }
+  .item-PXvHYJ[data-item-id="pc-moduleManager-themes"]:selected:after {
+    color: var(--interactive-active) !important;
+  }
+
 
 
