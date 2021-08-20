@@ -18,6 +18,6 @@ Installation section was moved to [here](https://github.com/rolledev/onehalfcord
 | --- | ----------- |
 | ![](https://i.imgur.com/ZDuhflB.png) | ![](https://i.imgur.com/8ZF41Fl.png) |
 ## Contributing
-Read the [CONTRIBUTING.md](https://github.com/rolledev/onehalfcord/blob/master/CONTRIBUTING.md) file.
+Read the [Contributing](https://github.com/rolledev/onehalfcord/wiki/Contributing) part of the wiki.
 # License
 This repository is licensed under the MIT license. Read the [LICENSE](https://github.com/rolledev/onehalfcord/blob/master/LICENSE) file for more information.
