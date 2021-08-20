@@ -436,5 +436,5 @@ div[href="/channels/@me"]:not(:hover) > div {
     font-family: 'Rubik', sans-serif;
     }
   html:root {
-    --font-display: var(var(--font-display))
+    --font-display: var(--font-display);
   }  
