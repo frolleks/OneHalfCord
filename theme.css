@@ -434,6 +434,7 @@ div[href="/channels/@me"]:not(:hover) > div {
   html:root {
     --font-display: var(--font-display);
   }
+/* Color Filled Roles by LuckFire */
   #app-mount .role-2irmRk {
     position: relative;
     overflow: hidden;
