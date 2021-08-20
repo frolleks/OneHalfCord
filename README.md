@@ -4,12 +4,7 @@
 ![](https://i.imgur.com/kkvvhdz.png)
 
 ## Installation
-### BetterDiscord
-Right click on this [link](https://raw.githubusercontent.com/rolledev/onehalfcord/master/OneHalfCord.theme.css) and click "Save link as" and drag and drop the file to your themes folder.
-### Powercord
-For Powercord, open your command terminal and copy and paste this command: `cd powercord/src/Powercord/themes && git clone https://github.com/rolledev/onehalfcord` and fetch missing themes. If you have the [PowercordThemeDownloader](https://github.com/ploogins/PowercordThemeDownloader) plugin, go to the Powercord Discord server and find this theme in #theme-links. Once you've find it, click the "Download Theme" button and you're good to go.
-### GooseMod
-Hey, reader. Can you ask for this theme to be ported to GooseMod in the GooseMod Discord? Thank you very much.
+Installation section was moved to [here](https://github.com/rolledev/onehalfcord/wiki/Installation).
 ## Features
 - Supports both light theme and dark theme
 - Resizable threads tab
