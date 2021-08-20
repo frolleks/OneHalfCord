@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand+Pro&display=swap');
 .theme-dark {
     --header-primary: #fff;
     --header-secondary: #b9bbbe;
@@ -433,7 +433,7 @@ div[href="/channels/@me"]:not(:hover) > div {
     color: var(--interactive-active) !important;
   }
   ::-webkit-input-placeholder, body, button, input, select, textarea{
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Quicksand', sans-serif;
     }
   html:root {
     --font-display: var(--font-display);
