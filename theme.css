@@ -435,6 +435,6 @@ div[href="/channels/@me"]:not(:hover) > div {
   ::-webkit-input-placeholder, body, button, input, select, textarea{
     font-family: 'Rubik', sans-serif;
     }
-    
-
-
+  html:root {
+    --font-display: var(var(--font-display))
+  }  
