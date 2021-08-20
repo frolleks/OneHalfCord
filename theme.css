@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
 .theme-dark {
     --header-primary: #fff;
     --header-secondary: #b9bbbe;
@@ -436,6 +437,9 @@ div[href="/channels/@me"]:not(:hover) > div {
   .item-PXvHYJ[data-item-id="pc-moduleManager-themes"]:selected:after {
     color: var(--interactive-active) !important;
   }
-
+  ::-webkit-input-placeholder, body, button, input, select, textarea{
+    font-family: 'Ubuntu', sans-serif;
+    }
+    
 
 
