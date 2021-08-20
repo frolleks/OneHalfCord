@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 .theme-dark {
     --header-primary: #fff;
     --header-secondary: #b9bbbe;
@@ -433,7 +433,7 @@ div[href="/channels/@me"]:not(:hover) > div {
     color: var(--interactive-active) !important;
   }
   ::-webkit-input-placeholder, body, button, input, select, textarea{
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     }
   html:root {
     --font-display: var(--font-display);
