@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
 .theme-dark {
     --header-primary: #fff;
     --header-secondary: #b9bbbe;
@@ -438,7 +438,7 @@ div[href="/channels/@me"]:not(:hover) > div {
     color: var(--interactive-active) !important;
   }
   ::-webkit-input-placeholder, body, button, input, select, textarea{
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Rubik', sans-serif;
     }
     
 
