@@ -253,11 +253,6 @@ html {
       width: 10px;
       height: 10px;
   }
-:root {
-    --font-primary: Whitney,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    --font-display: Whitney,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    --font-code: Consolas,"Andale Mono WT","Andale Mono","Lucida Console","Lucida Sans Typewriter","DejaVu Sans Mono","Bitstream Vera Sans Mono","Liberation Mono","Nimbus Mono L",Monaco,"Courier New",Courier,monospace;
-}
 .colorDanger-2qLCe1, .colorDanger-2qLCe1 .checkbox-3s5GYZ, .colorDanger-2qLCe1 .radioSelection-1HmrQS {
     color: hsl(355,calc(var(--saturation-factor, 1)*65%),65%);
 }
