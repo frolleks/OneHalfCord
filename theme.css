@@ -433,4 +433,25 @@ div[href="/channels/@me"]:not(:hover) > div {
   }
   html:root {
     --font-display: var(--font-display);
-  }  
+  }
+  #app-mount .role-2irmRk {
+    position: relative;
+    overflow: hidden;
+    border: 0;
+    z-index: 0;
+    padding: 5px;
+}
+#app-mount .role-2irmRk .roleCircle-3xAZ1j::after {
+    content: "";
+    position: absolute;
+    background: inherit;
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    opacity: 0.25;
+}
+#app-mount .role-2irmRk.addButton-pcyyf6 {
+    background-color: rgba(125, 125, 125, 0.25);
+}
+  
