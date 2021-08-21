@@ -460,7 +460,10 @@ div[href="/channels/@me"]:not(:hover) > div {
 }
 .theme-dark .bodyInnerWrapper-26fQXj {
   background-color: #181a1fc0;
-  padding: 6px;
+  padding-top: 6px;
+  padding-bottom: 2px;
+  padding-right: 6px;
+  padding-left: 6px;
   border-radius: 8px;
 }
 .theme-dark .footer-3UKYOU {
