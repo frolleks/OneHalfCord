@@ -455,4 +455,6 @@ div[href="/channels/@me"]:not(:hover) > div {
 #app-mount .role-2irmRk.addButton-pcyyf6 {
     background-color: rgba(125, 125, 125, 0.25);
 }
-  
+.theme-dark .userPopout-xaxa6l {
+  background-color: #181a1f7a;
+}
