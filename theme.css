@@ -210,7 +210,7 @@ html {
 
 #app-mount .app-2rEoOp::before {
   content: "Your version of OneHalfCord is outdated. Please download the newest version from: https://github.com/rolledev/onehalfcord";
-  display: var(--version2_0, block);
+  display: var(--version1_0, block);
   background-color: #4a90e2;
   color: #fff;
   font-size: 14px;
