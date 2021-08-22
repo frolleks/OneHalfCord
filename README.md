@@ -9,6 +9,7 @@ Installation section was moved to [here](https://github.com/rolledev/onehalfcord
 - Supports both light theme and dark theme
 - Resizable threads tab
 - USRBG Support (BetterDiscord **ONLY**)
+- Custom channel icons (Beta)
 ## Screenshots
 | Guild | Friends List |
 | --- | ----------- |
