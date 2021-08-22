@@ -206,22 +206,6 @@ html {
     --brand-experiment-90a: hsla(235,calc(var(--saturation-factor, 1)*85.6%),64.7%,0.9);
     --brand-experiment-95a: hsla(235,calc(var(--saturation-factor, 1)*85.6%),64.7%,0.95);
 }
-/* BD Updates and stuff */
-
-#app-mount .app-2rEoOp::before {
-  content: "Your version of OneHalfCord is outdated. Please download the newest version from: https://github.com/rolledev/onehalfcord";
-  display: var(--version1_0, block);
-  background-color: #4a90e2;
-  color: #fff;
-  font-size: 14px;
-  line-height: 36px;
-  font-weight: 500;
-  text-align: center;
-  z-index: 101;
-  }
-
-/* --------- */
-
 .nameTag-3uD-yy {
     display: none;
 }

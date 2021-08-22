@@ -75,6 +75,3 @@
 	background-position: var(--user-popout-position, center) center;
 	background-image: var(--user-background);
 }
-:root {
-    --version1_0: none;
-    }
