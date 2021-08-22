@@ -1,7 +1,7 @@
 /**
 * @name OneHalfCord
 * @author rolledev
-* @version 1.0
+* @version 0.1
 * @description A Discord theme based on the Vim theme, One Half.
 * @source https://github.com/rolledev/onehalfcord
 * @updateUrl https://raw.githubusercontent.com/rolledev/onehalfcord/master/OneHalfCord.theme.css
@@ -75,3 +75,6 @@
 	background-position: var(--user-popout-position, center) center;
 	background-image: var(--user-background);
 }
+:root {
+    --version1_0: none;
+    }

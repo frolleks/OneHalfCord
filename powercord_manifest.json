@@ -1,7 +1,7 @@
 {
     "name": "OneHalfCord",
     "description": "A Discord theme based on the Vim theme, One Half.",
-    "version": "1.0",
+    "version": "0.2",
     "author": "rolledev",
     "license": "MIT",
     "theme": "theme.css"
