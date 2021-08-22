@@ -515,6 +515,6 @@ div[href="/channels/@me"]:not(:hover) > div {
     position: absolute;
     color: var(--text-muted);
     background-color: currentColor;
-    height: 24px;
-    width: 24px;
+    height: 16px;
+    width: 16px;
 }
