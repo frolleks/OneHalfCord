@@ -3,6 +3,7 @@
     "description": "A Discord theme based on the Vim colorscheme, onehalf.",
     "version": "0.2",
     "license": "MIT",
+    "theme": "theme.css",
     "author": {
         "name": "Frolleks",
         "uid": ""
