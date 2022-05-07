@@ -1,0 +1,10 @@
+{
+    "name": "OneHalfCord",
+    "description": "A Discord theme based on the Vim colorscheme, onehalf.",
+    "version": "0.2",
+    "license": "MIT",
+    "author": {
+        "name": "Frolleks",
+        "uid": ""
+    }
+}
