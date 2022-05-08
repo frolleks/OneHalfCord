@@ -3,7 +3,7 @@
     "description": "A Discord theme based on the Vim colorscheme, onehalf.",
     "version": "0.2",
     "license": "MIT",
-    "theme": "OneHalfCord.theme.css",
+    "theme": "BetterDiscord/OneHalfCord.theme.css",
     "author": {
         "name": "Frolleks",
         "uid": "678779767880941589"
