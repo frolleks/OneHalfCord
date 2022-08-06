@@ -6,8 +6,8 @@
 ## Installation
 ### For BetterDiscord
 Right click on this [link](https://raw.githubusercontent.com/rolledev/onehalfcord/master/OneHalfCord.theme.css) and click "Save link as" and drag and drop the file to your themes folder.
-### For Replu, Vizality and Rikka
-For Powercord, Vizality and Rikka, open your command terminal and run `git clone https://github.com/frolleks/onehalfcord` on the themes folder and reload Discord.
+### For Replugged, Vizality and Rikka
+For Replugged, Vizality and Rikka, open your command terminal and run `git clone https://github.com/frolleks/onehalfcord` on the themes folder and reload Discord.
 ## Features
 - Supports both light theme and dark theme
 - Resizable threads tab
